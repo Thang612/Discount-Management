@@ -1,0 +1,11 @@
+Kem
+7000
+Food
+
+Sữa
+10000
+Food
+
+Áo
+200000
+Cloth
